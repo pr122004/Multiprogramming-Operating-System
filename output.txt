@@ -1,0 +1,16 @@
+
+
+Process 1 terminated: Normal termination
+TTC: 0, LLC: 0
+
+
+Process 2 terminated: Normal termination
+TTC: 1, LLC: 0
+
+
+Process 3 terminated: Invalid operation code
+TTC: 1, LLC: 0
+
+
+Process 4 terminated: Invalid operand
+TTC: 2, LLC: 0
